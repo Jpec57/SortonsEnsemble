@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--<item name="android:textViewStyle">@style/main</item>-->
+        <item name="android:fontFamily">@font/main</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/banana</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="main" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/main</item>
+    </style>
+</resources>

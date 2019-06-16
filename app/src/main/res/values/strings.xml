@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">SortonsEnsemble</string>
+    <string name="next_schedule_event">Next scheduled event:</string>
+
+    <!--utils-->
+    <string name="click_here" translatable="false">Next scheduled event:</string>
+    <string name="create_event" translatable="false">Next scheduled event:</string>
+    <string name="modify" translatable="false">Modify</string>
+    <string name="icon">icon</string>
+</resources>
